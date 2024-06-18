@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saurabh Dighe</h1>
-<div align="center"> <img src="https://www.vectorstock.com/royalty-free-vector/isometric-web-banner-data-analisis-and-statistics-vector-21557513"> </div>
 <h3 align="center">Hello! I'm Saurabh Dighe, currently pursuing a Master's in Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
